@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋Olá pessoal<br><br>⚽Meu nome é Breno Ramos <br>😁Sou estudante do primeiro ano do ensino médio e também estudo programação<br>🎮Gosto de jogar futebol e também jogar jogos online<br>💫Sonho em sair do Brasil e morar fora com minha família.
+👋Olá pessoal<br><br>⚽Meu nome é Breno Ramos <br>☕Sou estudante do primeiro ano do ensino médio e também estudo programação<br>🎮Gosto de jogar futebol e também jogar jogos online<br>💫Sonho em sair do Brasil e morar fora com minha família.
 
 
 ## 🌐 Socials:
